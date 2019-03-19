@@ -9,7 +9,7 @@
 ![alt text](saliency/lion.jpg)
 ![alt text](saliency/tiger.jpg)
 
-## [Attention on VGGNet (CAM)](https://github.com/raghakot/keras-vis/blob/master/examples/vggnet/attention.ipynb)
+## [Attention on VGGNet (grad-CAM)](https://github.com/raghakot/keras-vis/blob/master/examples/vggnet/attention.ipynb)
 ![alt text](cam/giant_panda.jpg)
 ![alt text](cam/golden_retriever.jpg)
 ![alt text](cam/hare.jpg)
