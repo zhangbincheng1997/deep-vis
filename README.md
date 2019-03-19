@@ -18,8 +18,8 @@
 ![alt text](cam/tiger.jpg)
 
 ## [Activation Maximization on VGGNet](https://github.com/raghakot/keras-vis/blob/master/examples/vggnet/activation_maximization.ipynb)
-![alt text](activation/block1_conv2.jpg)
-![alt text](activation/block2_conv2.jpg)
-![alt text](activation/block3_conv3.jpg)
-![alt text](activation/block4_conv3.jpg)
-![alt text](activation/block5_conv3.jpg)
+![alt text](activation/vgg16/block1_conv2.jpg)
+![alt text](activation/vgg16/block2_conv2.jpg)
+![alt text](activation/vgg16/block3_conv3.jpg)
+![alt text](activation/vgg16/block4_conv3.jpg)
+![alt text](activation/vgg16/block5_conv3.jpg)
