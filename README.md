@@ -2,19 +2,19 @@
 关于深度学习可视化
 
 ## [Attention on VGGNet (Saliency)](https://github.com/raghakot/keras-vis/blob/master/examples/vggnet/attention.ipynb)
-![alt text](saliency/giant_panda.jpg)
-![alt text](saliency/golden_retriever.jpg)
-![alt text](saliency/hare.jpg)
+![alt text](saliency/cat.jpg)
+![alt text](saliency/dog.jpg)
 ![alt text](saliency/koala.jpg)
 ![alt text](saliency/lion.jpg)
+![alt text](saliency/panda.jpg)
 ![alt text](saliency/tiger.jpg)
 
 ## [Attention on VGGNet (grad-CAM)](https://github.com/raghakot/keras-vis/blob/master/examples/vggnet/attention.ipynb)
-![alt text](cam/giant_panda.jpg)
-![alt text](cam/golden_retriever.jpg)
-![alt text](cam/hare.jpg)
+![alt text](cam/cat.jpg)
+![alt text](cam/dog.jpg)
 ![alt text](cam/koala.jpg)
 ![alt text](cam/lion.jpg)
+![alt text](cam/panda.jpg)
 ![alt text](cam/tiger.jpg)
 
 ## [Activation Maximization on VGGNet](https://github.com/raghakot/keras-vis/blob/master/examples/vggnet/activation_maximization.ipynb)
